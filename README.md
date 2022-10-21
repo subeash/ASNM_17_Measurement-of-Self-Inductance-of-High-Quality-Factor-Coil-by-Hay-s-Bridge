@@ -7,7 +7,7 @@
   <b>Discipline | <b> Electrical Engineering 
 :--|:--|
 <b> Lab | <b> **Analog Signals, Network and Measurement Laboratory Virtual Lab**
-<b> Experiment|     <b> **Verification of Norton Theorem and Experiment 1**
+<b> Experiment|     <b> **Measurement of Self Inductance of High Quality Factor Coil by Hay's Bridge**
 
 
 <b>Name of Developer | <b> **Prof. A.K Deb**
