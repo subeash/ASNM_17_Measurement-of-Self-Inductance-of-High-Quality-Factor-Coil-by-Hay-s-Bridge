@@ -1,8 +1,7 @@
 ## Procedure
 
-- Insert different values of $\theta$ within the joint range as prescribed in theory part and then click ok to get the output orientation and position of the end effector.
-- To see the individual movements of the robot links drag the ***sliders*** on the controller panel.
-- Manipulator position is shown in a **3D graph** for every submission of joint values.
-- The view can be rotated about a point by keeping the ***left mouse button*** pressed and rotating the mouse.
-- The view can be translated by keeping the ***right mouse button*** pressed and translating the mouse in the desired direction.
-- The ***scroll button*** or ***middle mouse button*** can be used for zooming.
+- ![Measurement of Self Inductance of High Quality Factor Coil by Hay's Bridge](images/hay_ckt.jpg)
+- Connect all the components and the air cored coil as shown in the Fig. 2.
+- Set the voltage at a convenient value (say, V=3V) . Set  the resistances  R2, and R3  at a convenient value and obtain the balance by varying R4 and C4.
+- Decide the ranges for R4 and C4  through which they can varied until milivoltmeter (mV) value would be zero.
+- Repeat the procedure with different values of the product R2R3 and decide upon readings that permit maximum accuracy for the measurement.
