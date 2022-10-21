@@ -1,7 +1,7 @@
 ## Objective
 - To determine the self inductance of a high quality factor unknown coil.
 - The Hay's bridge is a modification of Maxwell's bridge. The connection diagram is shown in figure 1. This bridge uses a resistance in series with the standard capacitor (unlike the Maxwell bridge which uses a resistance in parallel with capacitor).
-- ![Circuit diagram for measurement of capacitance by Carey Foster Bridge](images/careyfoster_capacitance_procedure_upload.jpg)
+- ![Circuit diagram for measurement of capacitance by Carey Foster Bridge](images/hay_ckt.jpg)
 - 
 ***Fig 1: Circuit diagram for measurement of self inductance of high quality factor coil by Hay's bridge***
 Let,
